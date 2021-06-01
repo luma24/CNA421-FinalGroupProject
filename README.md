@@ -9,3 +9,6 @@ Using a cloud 3CX phone system is a great solution for:
 •	Startups looking for a quick solution that can be easily scaled.
 
 •	A home business owner.
+
+#### Amazon Chime
+Amazon Chime is a communications service that transforms online meetings with a secure, easy-to-use application that you can trust. Amazon Chime works seamlessly across your devices so that you can stay connected. You can use Amazon Chime for online meetings, video conferencing, calls, and chat. You can also share content, both inside and outside your organization. Amazon Chime frees you to work productively from anywhere.
