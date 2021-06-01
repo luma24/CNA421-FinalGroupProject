@@ -1,3 +1,38 @@
 Create an account with 3cx
+Step 1. Select (Self-host in your Cloud) Self host in your own Amazon AWS/Lightsail, Google Cloud or Microsoft Azure account. You keep full control and manage 3CX yourself.
 
-Select (Self-host in your Cloud) Self host in your own Amazon AWS/Lightsail, Google Cloud or Microsoft Azure account. You keep full control and manage 3CX yourself.
+Step 2 . Select Time Zone, Country and Language.
+  -Select Country - United States (+1)
+  -Select the Time Zone - (UTC-08:00) Pacific Time (US & Canada)
+  -Select Language - Standard English Prompts Set
+  
+Step 3. Choose your 3CX domain
+  -Hostname - Hasan-Luma
+  -Select a domain group - United States
+  -Select a domain - Washington (Wa.3cx.us)
+  Suggested Domain: Hasan-Luma.wa.3cx.us
+  
+Step 4. Choose your extension length
+  -  3 Digits (000-999)
+  
+
+Step 5. Select Your Cloud Provider
+  - Amazon -AWS
+  - Access Key ID - ********************* 
+  - Secret Access Key - *********************************
+  
+Step 6. Choose the region and size of your VPS
+  - Select region - us-west-2
+  - Select key pair - Hasan$Luma-3CX
+  - Machine type - t2.nano: 1CPUs, 512 Mb RAM
+  
+Step 7. License Agreement
+  - Accept and proceed
+ 
+Step 8. 3CX will be installed in about 10 min
+
+
+
+
+  
+ 
