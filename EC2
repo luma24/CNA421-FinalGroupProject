@@ -6,7 +6,7 @@ name your key.
 pem is the file format.
 then click on Create key pair, a file will be downloaded. Keep that file on a safe place you will use it to connect to the instance.
 
-2-	AWS Manage subscription:
+2-AWS Manage subscription:
 On the search navigator search marketplace
 Click on Discover products
 On the search bar search Debian 9
