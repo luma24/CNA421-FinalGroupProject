@@ -31,6 +31,32 @@ Step 7. License Agreement
  
 Step 8. 3CX will be installed in about 10 min
 
+- Afther the 3cx system is Ready
+
+Step 1. Install The 3CX Apps
+•	On Android: Download and scan QR code  
+•	On iOS: Download and scan QR code  
+•	Windows: Download and run the config file sent to you by email “Your user account on your 3CX system”
+ 
+Step 2: Login to the webclient.
+URL: https://hasan-luma.wa.3cx.us/webclient/
+Username: 100
+Password: *********  
+Install the 3CX Browser Extension for Chrome or Edge and read the User Guide.
+  Login to Web Client
+  
+Step 3: Add extensions, SIP Trunks and configure IP Phones.
+Add extensions, SIP Trunks and configure IP Phones.
+URL: https://hasan-luma.wa.3cx.us
+Username: admin
+Password: ****************  
+Find out how to configure IP Phones, SIP Trunks and read our Admin Guide.
+  Login to Management Console
+  
+Step 4: Install Live Chat code on your website?
+•	Install the WordPress plugin here
+•	Or use generate the live chat for use with any CMS here
+•	Add text like others “Configure which agents should take Live Chats and Calls, read our Live Chat configuration guide”
 
 
 
