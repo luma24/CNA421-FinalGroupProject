@@ -10,7 +10,8 @@ Step 3. Choose your 3CX domain
   -Hostname - Hasan-Luma
   -Select a domain group - United States
   -Select a domain - Washington (Wa.3cx.us)
-  Suggested Domain: HasanLuma.wa.3cx.us
+  Suggested Domain: https://hasanluma.wa.3cx.us
+  
   
 Step 4. Choose your extension length
   -  3 Digits (000-999)
@@ -47,7 +48,7 @@ Install the 3CX Browser Extension for Chrome or Edge and read the User Guide.
   
 Step 3: Add extensions, SIP Trunks and configure IP Phones.
 Add extensions, SIP Trunks and configure IP Phones.
-URL: https://hasan-luma.wa.3cx.us
+URL: https://hasanluma.wa.3cx.us
 Username: admin
 Password: ****************  
 Find out how to configure IP Phones, SIP Trunks and read our Admin Guide.
