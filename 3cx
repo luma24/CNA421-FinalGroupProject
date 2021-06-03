@@ -10,7 +10,7 @@ Step 3. Choose your 3CX domain
   -Hostname - Hasan-Luma
   -Select a domain group - United States
   -Select a domain - Washington (Wa.3cx.us)
-  Suggested Domain: Hasan-Luma.wa.3cx.us
+  Suggested Domain: HasanLuma.wa.3cx.us
   
 Step 4. Choose your extension length
   -  3 Digits (000-999)
@@ -39,7 +39,7 @@ Step 1. Install The 3CX Apps
 •	Windows: Download and run the config file sent to you by email “Your user account on your 3CX system”
  
 Step 2: Login to the webclient.
-URL: https://hasan-luma.wa.3cx.us/webclient/
+URL: https://hasanluma.wa.3cx.us/webclient/
 Username: 100
 Password: *********  
 Install the 3CX Browser Extension for Chrome or Edge and read the User Guide.
