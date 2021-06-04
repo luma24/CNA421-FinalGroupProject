@@ -1,1 +1,71 @@
+1- On AWS search Amazon Chime
+2- create an account with amazon chime.
+3- Select Phone number management/Orders then click on Provision Phone Numbers.
+4- then select Voice connector 
+   Next select Type > Toll-Free (Choose the toll free number(888) then click on search 
+   You can choose the number (+18883999578)
+   then click on Provision.
 
+5- Now click on Voice connectors
+   Create new voice connector
+   Voice connector name (HLS)
+   AWS region (US West (Oregon))
+   Encryption (Disabled)
+
+6- Configure the Voice connectors By click on HLS/Termination 
+
+  Enable Termination settings to control outbound calling from your SIP infrastructure. 
+
+  Termination status
+  Enabled
+
+Allowed hosts list (IP addresses allowed to make calls using your Voice Connector. You can create up to 10 entries.)
+
+Click on New
+
+ADD your Instance IP address  then click on Add.
+
+Here Select the Country,
+Calling plan*
+Allow outbound calls to selected countries.
+
+Credentials (Recommended)
+Create up to 10 SIP credentials to authenticate outbound calls.
+If no credentials are created, authentication will not be required.
+
+NEW Credentials:
+Username: HLS-3CX
+
+Password: *******
+
+
+Then save all the configurations.
+
+7- Set the Inbound calls
+First click on origination
+
+Enable origination settings to control inbound calling to your SIP infrastructure. 
+
+Origination status
+Enabled
+
+Inbound routes*
+Configure inbound routes for your SIP hosts to receive inbound calls. You can create up to 10 routes.
+
+Click on NEW
+
+
+Host ( You can find it on FQDN)
+Port 5060
+Priority 1
+Weight 5
+
+then Add
+then Save
+
+8- Click on Phone Number to assign the number to Trunk.
+Assign from inventory
+select the phone number
+Assign from inventory
+
+DONE!!
