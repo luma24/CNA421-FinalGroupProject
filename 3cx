@@ -60,11 +60,11 @@ a- Select SIP Trunks/Add SIP Trunk
    Main Trunk No (the Phone number that you buy it)
 b- Registrar/Server/Gateway Hostname or IP (this means the Outbound host name in your chime account)
 c- Authentication
-Add the Authentication ID and password that you set uo on amazon chime)
+Add the Authentication ID and password that you set up on amazon chime)
 d- Route calls to
 Set up the Destination for calls during office hours
 Then click ok to save the configuration.
-e- Set up the oubound Rules
+e- Set up the outbound Rules
 Rule Name Outbound Calls
 Calls to numbers starting with prefix - 9
 f- On Route 1:  
