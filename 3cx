@@ -51,8 +51,27 @@ Add extensions, SIP Trunks and configure IP Phones.
 URL: https://hasanluma.wa.3cx.us
 Username: admin
 Password: ****************  
-Find out how to configure IP Phones, SIP Trunks and read our Admin Guide.
-  Login to Management Console
+
+To configure IP Phones and SIP Trunks, login to Management Console and follow this instructions:
+a- Select SIP Trunks/Add SIP Trunk
+
+   Select Country
+   Select Provider in your Country (Amazon Chime Voice Connector)
+   Main Trunk No (the Phone number that you buy it)
+b- Registrar/Server/Gateway Hostname or IP (this means the Outbound host name in your chime account)
+c- Authentication
+Add the Authentication ID and password that you set uo on amazon chime)
+d- Route calls to
+Set up the Destination for calls during office hours
+Then click ok to save the configuration.
+e- Set uo the oubound Rulls
+Rule Name Outbound Calls
+Calls to numbers starting with prefix - 9
+f- On Route 1:  
+  Amazon Chime voice Connector
+  Strip Digits 1 
+  Prepend   +1
+  Outbound Caller ID 8883999578
   
 Step 4: Install Live Chat code on your website?
 •	Install the WordPress plugin here
