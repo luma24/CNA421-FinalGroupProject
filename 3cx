@@ -52,7 +52,7 @@ URL: https://hasanluma.wa.3cx.us
 Username: admin
 Password: ****************  
 
-To configure IP Phones and SIP Trunks, login to Management Console and follow this instructions:
+To configure IP Phones and SIP Trunks, login to Management Console and follow this instruction:
 a- Select SIP Trunks/Add SIP Trunk
 
    Select Country
@@ -64,7 +64,7 @@ Add the Authentication ID and password that you set uo on amazon chime)
 d- Route calls to
 Set up the Destination for calls during office hours
 Then click ok to save the configuration.
-e- Set uo the oubound Rulls
+e- Set up the oubound Rulls
 Rule Name Outbound Calls
 Calls to numbers starting with prefix - 9
 f- On Route 1:  
