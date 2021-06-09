@@ -15,9 +15,14 @@ Amazon Chime is a communications service that transforms online meetings with a 
 
 #### Steps to setup the cloud phone system project:
 
-Step 1 ........
+Step 1: First start with EC2 instruction to craete the  key pair and manage Debian 9 subscription.
 
-Step 2 ........
+Step 2: Next follow 3cx file instructions to create an account and some set up on 3cx.
 
-Step 3 ......
+Step 3: The Amazon Chime file instructions will lead you to create an account with amazon chime, purchase a number, configur the SIP Trunk, and set up the outbound calling.
 
+#### Now you have a phone system hosted on the cloud(AWS)!
+
+Resource:
+
+[NetworkChuck](https://www.youtube.com/watch?v=n_1wX7kKx7k)
